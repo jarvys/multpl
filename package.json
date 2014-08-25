@@ -1,6 +1,6 @@
 {
   "name": "multpl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "util for multiline template with underscore and multiline",
   "main": "index.js",
   "scripts": {
