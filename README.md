@@ -1,4 +1,4 @@
 multpl
 ======
 
-Shortcut for multiline template with underscore and multiline
+> Shortcut for multiline template with underscore and multiline
